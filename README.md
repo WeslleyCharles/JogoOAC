@@ -7,3 +7,5 @@ Como jogar:
 ~ Acerte o porco para passar de fase enquanto tenta desviar de seus tiros.
 
 ~ O jogo tem 9 fases no total, e a dificuldade aumenta de acordo com a fase.
+
+Link para a gameplay do jogo: https://youtu.be/4ssN_pFg0zQ
